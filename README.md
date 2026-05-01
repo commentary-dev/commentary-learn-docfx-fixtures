@@ -5,7 +5,7 @@ Demonstrates DocFX include, tab, selector, and Microsoft Learn zone syntax.
 ## Manual Commentary Routes
 
 ```text
-/review/github/commentary-dev/commentary-learn-docfx-fixtures/pull/2?file=articles%2Flearn-fixture.md
+/review/github/commentary-dev/commentary-learn-docfx-fixtures/pull/3?file=articles%2Flearn-fixture.md
 ```
 
 ## Feature Coverage
