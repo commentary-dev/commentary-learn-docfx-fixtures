@@ -1,7 +1,16 @@
-# Commentary Learn and DocFX Fixtures
+# DocFX and Microsoft Learn Markdown Fixture
 
-This public repository contains Microsoft Learn and DocFX Markdown fixtures for Commentary.
+Demonstrates DocFX include, tab, selector, and Microsoft Learn zone syntax.
 
-## Fixture Branches
+## Manual Commentary Routes
 
-- `fixture/docfx-learn`
+```text
+/review/github/commentary-dev/commentary-learn-docfx-fixtures/pull/1?file=articles%2Flearn-fixture.md
+```
+
+## Feature Coverage
+
+- `[!INCLUDE]` directives.
+- DocFX tab headings.
+- Microsoft Learn selector blockquotes.
+- Microsoft Learn zone pivots.
