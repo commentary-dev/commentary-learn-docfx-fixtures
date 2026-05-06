@@ -23,7 +23,7 @@ Use PowerShell for the Windows path.
 
 ::: zone pivot="github"
 
-GitHub-specific Learn content.
+GitHub-specific Learn content. Clicking the selector changes the content.
 
 ::: zone-end
 
